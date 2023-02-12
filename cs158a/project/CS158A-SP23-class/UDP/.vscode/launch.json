@@ -8,14 +8,14 @@
             "type": "java",
             "name": "Launch Current File",
             "request": "launch",
-            "mainClass": "${file}",
+            "mainClass": "${file}"
         },
         {
             "type": "java",
             "name": "Launch QotD",
             "request": "launch",
             "mainClass": "edu.sjsu.cs158a.QotD",
-            "projectName": "qutd",
+            "projectName": "qutd"
         }
     ]
 }
